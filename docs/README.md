@@ -3,7 +3,7 @@
 ## circle.py
 ### Calculating the area and perimeter of a circle
 #### Function call example: 
--print(area(int(input())))
+- print(area(int(input())))
 - print(perimeter(int(input())))
 
 ## rectangle.py
