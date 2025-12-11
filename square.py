@@ -1,15 +1,3 @@
-# def area(a):
-#     '''takes the module of side of square a, returns its area'''
-#     return a * a
-
-
-# def perimeter(a):
-#     '''takes the module of side of square a, returns its perimeter'''
-#     return 4 * a
-
-
-
-
 def area(a: float) -> float:
     """
     Calculate the area of a square.
