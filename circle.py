@@ -1,15 +1,3 @@
-# import math
-
-
-# def area(r):
-#     '''takes the module of radius of a circle r, returns its area'''
-#     return math.pi * r * r
-
-
-# def perimeter(r):
-#     '''takes the module of radius of the circle r, returns its length'''
-#     return 2 * math.pi * r
-
 import math
 
 
