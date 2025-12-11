@@ -1,13 +1,3 @@
-# def area(a, h): 
-#     '''takes the modulus of the base (side) a and the modulus of the height h, drawn to this base of the triangle, returns its area'''
-#     return a * h / 2 
-
-# def perimeter(a, b, c): 
-#     '''takes the nodules of sides of a triangle a, b, c, returns its perimeter'''
-#     return a + b + c 
-
-
-
 def area(a: float, h: float) -> float:
     """
     Calculate the area of a triangle.
